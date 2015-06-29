@@ -1,0 +1,47 @@
+<!-- ?xml version="1.0" encoding="utf-8"? -->
+<resources>
+
+    <string-array name="entriesFrameCaptureRate">
+        <item name="vcc_fcr_0_1">0.1 second\n(Basketball)</item>
+        <item name="vcc_fcr_0_5">0.5 second\n(Plane takeoff)</item>
+        <item name="vcc_fcr_1">1 second\n(Home monitor)</item>
+        <item name="vcc_fcr_5">5 seconds\n(Sunrise, Sunset)</item>
+        <item name="vcc_fcr_10">10 seconds\n(Quick cloud moving)</item>
+        <item name="vcc_fcr_15">15 seconds\n(Busy street)</item>
+        <item name="vcc_fcr_30">30 seconds\n(One day n night)</item>
+        <item name="vcc_fcr_60">1 minute\n(3D printing)</item>
+        <item name="vcc_fcr_300">5 minutes\n(Flowering)</item>
+    </string-array>
+    <string-array name="entryValuesFrameCaptureRate">
+        <item name="vcc_fcr_0_1">0.1</item>
+        <item name="vcc_fcr_0_5">0.5</item>
+        <item name="vcc_fcr_1">1</item>
+        <item name="vcc_fcr_5">5</item>
+        <item name="vcc_fcr_10">10</item>
+        <item name="vcc_fcr_15">15</item>
+        <item name="vcc_fcr_30">30</item>
+        <item name="vcc_fcr_60">60</item>
+        <item name="vcc_fcr_300">300</item>
+    </string-array>
+    <string-array name="entriesMaxRecordDuration">
+        <item name="vcc_mrd_0">unlimited</item>
+        <item name="vcc_mrd_15">15 seconds</item>
+        <item name="vcc_mrd_30">30 seconds</item>
+        <item name="vcc_mrd_60">1 minute</item>
+        <item name="vcc_mrd_180">3 minutes</item>
+        <item name="vcc_mrd_600">10 minutes</item>
+        <item name="vcc_mrd_1800">30 minutes</item>
+        <item name="vcc_mrd_3600">1 hour</item>
+    </string-array>
+    <string-array name="entryValuesMaxRecordDuration">
+        <item name="vcc_mrd_0">0</item>
+        <item name="vcc_mrd_15">15</item>
+        <item name="vcc_mrd_30">30</item>
+        <item name="vcc_mrd_60">60</item>
+        <item name="vcc_mrd_180">180</item>
+        <item name="vcc_mrd_600">600</item>
+        <item name="vcc_mrd_1800">1800</item>
+        <item name="vcc_mrd_3600">3600</item>
+    </string-array>
+
+</resources>
